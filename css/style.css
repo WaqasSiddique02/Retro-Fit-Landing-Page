@@ -1,0 +1,36 @@
+.topc{
+    background-image: url("../images/kit.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+}
+
+.custom-text-color{
+    color: whitesmoke !important;
+    font-family: cursive !important ; 
+}
+
+.custom-text-color-p{
+    color: rgb(199, 195, 195) !important ;
+}
+
+.shop{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.text-body-emphasis{
+    font-family: cursive !important;
+}
+
+#footer{
+    background-image: url("../images/messi.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom-text-color-footer .nav-link,
+.custom-text-color-footer p {
+  color: white !important;
+}
